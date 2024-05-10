@@ -1,6 +1,6 @@
-FUR with Blender
+# FUR with Blender - particle system method
 
-#### particle system method
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TnmCOeqfZ5o/0.jpg)<br/>(click to view)](https://www.youtube.com/watch?v=TnmCOeqfZ5o)
 
 - add uv sphere
 - right panel -> partical properties -> + add particle system slot
@@ -21,3 +21,6 @@ FUR with Blender
 - material -> new material -> surface -> principled hair bsdf
 - material -> roughness (increase)
 - material -> color 
+
+## results
+![results](./blender-fur-using-particle-system-render.png)
